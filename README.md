@@ -10,7 +10,7 @@ The current flow for our project board is:
 
 **Submitted** - All issues waiting for further triage or response. 
 
-**On the Roadmap** - features and improvements we actively have on our current roadmap. 
+**On the Roadmap** - features and improvements we have on our current roadmap. 
 
 **Backlog** - Not currently scoped in our roadmap. 
 
