@@ -8,13 +8,13 @@ After your issue is submitted we will do our best to triage it in the **[`Commun
 
 The current flow for our project board is:
 
-**Submitted** - All issues waiting for further triage or response. 
+  - **Submitted** - All issues waiting for further triage or response. 
 
-**On the Roadmap** - Features and improvements we have on our current roadmap. 
+  - **On the Roadmap** - Features and improvements we have on our current roadmap. 
 
-**Backlog** - Not currently scoped in our roadmap. 
+  - **Backlog** - Not currently scoped in our roadmap. 
 
-**Closed**- Closed issue, check the issue for further context. 
+  - **Closed**- Closed issue, check the issue for further context. 
 
 We look forward to your feedback!
 
