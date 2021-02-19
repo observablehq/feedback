@@ -12,7 +12,7 @@ The current flow for our project board is:
 
   - **On the Roadmap** - Features and improvements we have on our current roadmap. 
 
-  - **Backlog** - Not currently scoped in our roadmap. 
+  - **Additional Issues** - Not currently scoped in our roadmap. 
 
   - **Closed**- Closed issue, check the issue for further context. 
 
