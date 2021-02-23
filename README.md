@@ -20,4 +20,4 @@ We look forward to your feedback!
 
 The Observable Team
 
-<sup>Please note that this space is covered under [Observable's Code of Conduct](https://observablehq.com/@observablehq/code-of-conduct)._</sup>_
+<sup>Please note that this space is covered under the [Observable Code of Conduct](https://observablehq.com/@observablehq/code-of-conduct)._</sup>_
