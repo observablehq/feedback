@@ -16,6 +16,9 @@ The current flow for our project board is:
 
   - **Closed**- Closed issue, check the issue for further context. 
 
+
+See an issue you were planning on submitting? **Give it a 👍 as a +1.**
+
 We look forward to your feedback!
 
 The Observable Team
