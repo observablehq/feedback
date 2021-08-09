@@ -2,20 +2,9 @@
 
 Thank you for taking the time to give us feedback. 
 
-Please [submit your issue](https://github.com/observablehq/feedback/issues/new/choose) and give us as much detail as possible. If the `feature request` or `bug` templates doesn't cover your needs, feel free to open a blank issue. 
+Please [submit your issue](https://github.com/observablehq/feedback/issues/new/choose) and give us as much detail as possible. If the `feature request` or `bug` templates do not cover your needs, feel free to open a blank issue. 
 
-After your issue is submitted we will do our best to triage it in a **[project board](https://github.com/observablehq/feedback/projects/)** and provide context where needed.
-
-The current flow for our project board is:
-
-  - **Submitted** - All issues waiting for further triage or response. 
-
-  - **On the Roadmap** - Features and improvements we have on our current roadmap. 
-
-  - **Additional Issues** - Not currently scoped in our roadmap. 
-
-  - **Closed**- Closed issue, check the issue for further context. 
-
+After your issue is submitted, we will do our best to assign it labels that suggest how it will be handled. A "TopN" label indicates that the feature or improvement is on the current roadmap.
 
 See an issue you were planning on submitting? **Give it a 👍 as a +1.**
 
