@@ -1,15 +1,10 @@
-# Observable Feedback README  
+# Observable feedback  
 
-Thank you for taking the time to give us feedback. 
+Thank you for taking the time to give us feedback. We monitor this repository and will update you if we make progress, resolve the issue, or need more information.
 
-Please [submit your issue](https://github.com/observablehq/feedback/issues/new/choose) and give us as much detail as possible. If the `feature request` or `bug` templates do not cover your needs, feel free to open a blank issue. 
+- [Report a bug](https://github.com/observablehq/feedback/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=)
+- [Request a feature](https://github.com/observablehq/feedback/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
+- [Open a blank issue](https://github.com/observablehq/feedback/issues/new)
+- [Browse existing issues](https://github.com/observablehq/idea-sandbox/issues), and remember to give a “👍” to any you agree with
 
-After your issue is submitted, we will do our best to assign it labels that suggest how it will be handled. A "Top N" label indicates that the feature or improvement is on the [current roadmap](https://github.com/observablehq/feedback/issues?q=is%3Aissue+is%3Aopen+label%3A%22Top+N%22).
-
-See an issue you were planning on submitting? **Give it a 👍 as a +1.**
-
-We look forward to your feedback!
-
-The Observable Team
-
-<sup>Please note that this space is covered under the [Observable Code of Conduct](https://observablehq.com/@observablehq/code-of-conduct)._</sup>_
+We look forward to reading what you have to say!
